@@ -1,0 +1,82 @@
+id: PA7F751C2
+initial_creation_type: input
+source_metadata:
+  title: 'Asaṅga: Abhidharmasamuccaya'
+  language: sa
+  volumes:
+    b659497d483d4ee8bc6f69b3986613d7:
+      title: CI_§62
+      base_file: CI_§62.txt
+      work_id: WCDAF5455
+    f03d16f53c64419aa5e4f13c1615be0f:
+      title: CI_§63
+      base_file: CI_§63.txt
+      work_id: W03A2A41B
+    0bc8c71a60ff40128fb27d0cf288a2d4:
+      title: CI_§64
+      base_file: CI_§64.txt
+      work_id: WA73D2381
+    9636b4f9446f4bc98de76be14ba66c86:
+      title: CI_§65
+      base_file: CI_§65.txt
+      work_id: W4DEBC63B
+    747df217f26d443497682b00465e6ec5:
+      title: CI_§66
+      base_file: CI_§66.txt
+      work_id: WEBBEE3A7
+    c81f9e1f777e4e3084e4401f007f9e32:
+      title: CI_§67
+      base_file: CI_§67.txt
+      work_id: W52408CD0
+    500ca79c024a47ec8e70d1b26971dac9:
+      title: CI_§68
+      base_file: CI_§68.txt
+      work_id: WE2EEE2B5
+    e291bc25ec464878aa296148b58defcd:
+      title: CI_§69
+      base_file: CI_§69.txt
+      work_id: WD17609C6
+    7e557678378d49b4b13b780a15704443:
+      title: CI_§70
+      base_file: CI_§70.txt
+      work_id: W2924A12C
+    d95686d8d9f94cf48926ef88f47dd201:
+      title: CI_§71
+      base_file: CI_§71.txt
+      work_id: W01DB149A
+    5d70b84bb26c469e9cde1d6f7ba4ae8b:
+      title: CI_§72
+      base_file: CI_§72.txt
+      work_id: W75D25DDD
+    19490062587a45daac268f5f89d152e4:
+      title: CI_§73
+      base_file: CI_§73.txt
+      work_id: WBFFEFBAF
+    a4e8525e86f74b48bb49c1a532869298:
+      title: CI_§74
+      base_file: CI_§74.txt
+      work_id: W8F485EBC
+    7e5392ac7d3943f68544caaa61065cc6:
+      title: CI_§75
+      base_file: CI_§75.txt
+      work_id: W5E1E5547
+    eb7b9063acb54e788f3c1e979e74ae99:
+      title: CI_§76
+      base_file: CI_§76.txt
+      work_id: W54894401
+    6e0f5688e4134a7a8ceb64e9e6b28853:
+      title: CI_§77
+      base_file: CI_§77.txt
+      work_id: W0D40C45B
+    112e1a1013ea4fd38b92267e8d68a31c:
+      title: CI_§78
+      base_file: CI_§78.txt
+      work_id: WC329A433
+    e32ee3e2a50e47d48c9fa723d6fdf456:
+      title: Title
+      base_file: Title.txt
+      work_id: W7ABD4ADD
+  chapter_to_tile:
+    CI: Chapter II
+created_at: '2022-03-01T23:03:12.023103'
+last_modified_at: '2022-03-01T23:03:12.023109'
